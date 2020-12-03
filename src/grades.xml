@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<grades>
+    <grade id="1">
+        <student>Lola</student>
+        <rate>9</rate>
+    </grade>
+    <grade id="2">
+        <student>Lara</student>
+        <rate>10</rate>
+    </grade>
+    <grade id="3">
+        <student>Lena</student>
+        <rate>8</rate>
+    </grade>
+</grades>
